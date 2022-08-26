@@ -49,3 +49,14 @@ Software development
   - [Purely Functional Data Structures by Chris Okasaki, 1998](https://www.cambridge.org/core/books/purely-functional-data-structures/0409255DA1B48FA731859AC72E34D494)
 
 </details>
+
+# Github stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+	 <img 
+        alt="iilyaks's Github Stats" 
+        src="https://github-readme-stats.vercel.app/api?username=iilyak&show_icons=true&locale=en&theme=tokyonight&layout=compact" 
+        height="230px"/>
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iilyak&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="iilyak" height="230px"/>

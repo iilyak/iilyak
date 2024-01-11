@@ -45,7 +45,6 @@
 Software development
 </summary>
   </br>
-![rust-in-4-hours](https://github.com/iilyak/iilyak/assets/9804420/ac63d2d8-7c36-40c6-a838-a54f9f2fdaa7)
 
   - [Why Programs Fail, 2nd Edition by Andreas Zeller, July 2009](https://learning.oreilly.com/library/view/why-programs-fail/9780123745156/)
   - [Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin, August 2008](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)

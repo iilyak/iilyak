@@ -34,6 +34,9 @@
 | October 22, 2021  | [![security-and-privacy-by-design-foundations](https://user-images.githubusercontent.com/9804420/186944197-0d1cbb70-881a-448e-93f7-78e4350635eb.png)](https://www.credly.com/badges/515c7255-d3b0-493b-9560-52804ac98dfb/public_url) |
 | November 28, 2020 | [![think-like-a-hacker](https://user-images.githubusercontent.com/9804420/186944711-4ada183e-e3d9-42a0-af2a-05723c34e8a0.png)](https://www.credly.com/badges/dbe861bc-c683-4d84-bd74-23813ec983d6/public_url) |
 | January 23, 2017  | [![ibm-watson-data-platform-sales-foundations](https://user-images.githubusercontent.com/9804420/186945564-cac6b0a6-6aa2-4a64-aba5-93cec4db6a3c.png)](https://www.credly.com/badges/297a6480-31a3-43c3-90dd-bd41549d27a3/public_url) |
+| January 11, 2024  | [![rust-in-4-hours-140x140](https://github.com/iilyak/iilyak/assets/9804420/9c09eaf1-6606-477f-8238-82f0b1aa9b70)](https://www.credly.com/badges/4e001830-6317-49b2-826e-84e6c6938abc/public_url) |
+| January 11, 2024  | [![prompt-engineering-bootcamp-140x140](https://github.com/iilyak/iilyak/assets/9804420/729c66ef-d1af-4c2e-bd3c-f22e7e7d0c3e)](https://www.credly.com/badges/63bd63ea-4441-460b-bcd9-66c8e6e9d8c8/public_url) |
+
 
 # Books I recommend
 
@@ -42,6 +45,7 @@
 Software development
 </summary>
   </br>
+![rust-in-4-hours](https://github.com/iilyak/iilyak/assets/9804420/ac63d2d8-7c36-40c6-a838-a54f9f2fdaa7)
 
   - [Why Programs Fail, 2nd Edition by Andreas Zeller, July 2009](https://learning.oreilly.com/library/view/why-programs-fail/9780123745156/)
   - [Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin, August 2008](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)

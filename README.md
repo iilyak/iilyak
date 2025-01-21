@@ -36,7 +36,7 @@
 | January 23, 2017  | [![ibm-watson-data-platform-sales-foundations](https://user-images.githubusercontent.com/9804420/186945564-cac6b0a6-6aa2-4a64-aba5-93cec4db6a3c.png)](https://www.credly.com/badges/297a6480-31a3-43c3-90dd-bd41549d27a3/public_url) |
 | January 11, 2024  | [![rust-in-4-hours-140x140](https://github.com/iilyak/iilyak/assets/9804420/9c09eaf1-6606-477f-8238-82f0b1aa9b70)](https://www.credly.com/badges/4e001830-6317-49b2-826e-84e6c6938abc/public_url) |
 | January 11, 2024  | [![prompt-engineering-bootcamp-140x140](https://github.com/iilyak/iilyak/assets/9804420/729c66ef-d1af-4c2e-bd3c-f22e7e7d0c3e)](https://www.credly.com/badges/63bd63ea-4441-460b-bcd9-66c8e6e9d8c8/public_url) |
-| January 21, 2025  | [![](assets/CustomizaGPT.badge.png)](https://www.credly.com/badges/af7ffc36-bca7-4885-b8cb-dba5f1b86443) |
+| January 21, 2025  | [<img src="assets/CustomizaGPT.badge.png" alt="Customize GPTs & Claude Badge" width="140">](https://www.credly.com/badges/af7ffc36-bca7-4885-b8cb-dba5f1b86443) |
 
 
 # Books I recommend

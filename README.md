@@ -30,13 +30,16 @@
 
 |Date               | Badge |
 |-------------------|-------|
-| August 11, 2022   | [![neuro-symbolic-ai-essentials](https://user-images.githubusercontent.com/9804420/186943576-b06ce744-4310-4b16-a602-dc7f0d326538.png)](https://www.credly.com/badges/1b318260-cca1-4b49-93c3-4cee8f832b19/public_url) |
-| October 22, 2021  | [![security-and-privacy-by-design-foundations](https://user-images.githubusercontent.com/9804420/186944197-0d1cbb70-881a-448e-93f7-78e4350635eb.png)](https://www.credly.com/badges/515c7255-d3b0-493b-9560-52804ac98dfb/public_url) |
-| November 28, 2020 | [![think-like-a-hacker](https://user-images.githubusercontent.com/9804420/186944711-4ada183e-e3d9-42a0-af2a-05723c34e8a0.png)](https://www.credly.com/badges/dbe861bc-c683-4d84-bd74-23813ec983d6/public_url) |
-| January 23, 2017  | [![ibm-watson-data-platform-sales-foundations](https://user-images.githubusercontent.com/9804420/186945564-cac6b0a6-6aa2-4a64-aba5-93cec4db6a3c.png)](https://www.credly.com/badges/297a6480-31a3-43c3-90dd-bd41549d27a3/public_url) |
-| January 11, 2024  | [![rust-in-4-hours-140x140](https://github.com/iilyak/iilyak/assets/9804420/9c09eaf1-6606-477f-8238-82f0b1aa9b70)](https://www.credly.com/badges/4e001830-6317-49b2-826e-84e6c6938abc/public_url) |
-| January 11, 2024  | [![prompt-engineering-bootcamp-140x140](https://github.com/iilyak/iilyak/assets/9804420/729c66ef-d1af-4c2e-bd3c-f22e7e7d0c3e)](https://www.credly.com/badges/63bd63ea-4441-460b-bcd9-66c8e6e9d8c8/public_url) |
+| August 11, 2022   | [<img src="assets/NeuroSymbolicAI.png" alt="Neuro-Symbolic AI Essentials Badge" width="140">](https://www.credly.com/badges/1b318260-cca1-4b49-93c3-4cee8f832b19/public_url) |
+| October 22, 2021  | [<img src="assets/Security-Privacy-by-Design-Foundational.png" alt="Security and Privacy by Design Foundations badge" width="140">](https://www.credly.com/badges/515c7255-d3b0-493b-9560-52804ac98dfb/public_url) |
+| November 28, 2020 | [<img src="assets/Think-LIke-a-Hacker.png" alt="Think Like a Hacker Badge" width="140">](https://www.credly.com/badges/dbe861bc-c683-4d84-bd74-23813ec983d6/public_url) |
+| January 23, 2017  | [<img src="assets/IBMWatsonDataPlatform.png" alt="IBM Watson Data Platform - Sales Foundations Badge" width="140">](https://www.credly.com/badges/297a6480-31a3-43c3-90dd-bd41549d27a3/public_url) |
+| January 11, 2024  | [<img src="assets/RustIn4Hours.png" alt="Rust in 4 hours Badge" width="140">](https://www.credly.com/badges/4e001830-6317-49b2-826e-84e6c6938abc/public_url) |
+| January 11, 2024  | [<img src="assets/PromptingBootcamp.png" alt="Prompting Bootcamp" width="140">](https://www.credly.com/badges/63bd63ea-4441-460b-bcd9-66c8e6e9d8c8/public_url) |
 | January 21, 2025  | [<img src="assets/CustomizaGPT.badge.png" alt="Customize GPTs & Claude Badge" width="140">](https://www.credly.com/badges/af7ffc36-bca7-4885-b8cb-dba5f1b86443) |
+| January 21, 2025  | [<img scr="assets/UserStories.png" alt="User Stories & Backlog Mgmt Badge" width="140">](https://www.credly.com/badges/0c241bab-6e4b-4ac6-949b-0f01952a5691/public_url) |
+| January 21, 2025  | [<img src="assets/ModernEngineeringPractices.png" alt="Modern Engineering Practices Badge" width="140">](https://www.credly.com/badges/26c136dd-8e25-4ee8-83d0-27f70baed4f2/public_url) |
+
 
 
 # Books I recommend

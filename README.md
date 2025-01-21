@@ -37,7 +37,7 @@
 | January 11, 2024  | [<img src="assets/RustIn4Hours.png" alt="Rust in 4 hours Badge" width="140">](https://www.credly.com/badges/4e001830-6317-49b2-826e-84e6c6938abc/public_url) |
 | January 11, 2024  | [<img src="assets/PromptingBootcamp.png" alt="Prompting Bootcamp" width="140">](https://www.credly.com/badges/63bd63ea-4441-460b-bcd9-66c8e6e9d8c8/public_url) |
 | January 21, 2025  | [<img src="assets/CustomizaGPT.badge.png" alt="Customize GPTs & Claude Badge" width="140">](https://www.credly.com/badges/af7ffc36-bca7-4885-b8cb-dba5f1b86443) |
-| January 21, 2025  | [<img scr="assets/UserStories.png" alt="User Stories & Backlog Mgmt Badge" width="140">](https://www.credly.com/badges/0c241bab-6e4b-4ac6-949b-0f01952a5691/public_url) |
+| January 21, 2025  | [<img src="assets/UserStories.png" alt="User Stories & Backlog Mgmt Badge" width="140">](https://www.credly.com/badges/0c241bab-6e4b-4ac6-949b-0f01952a5691/public_url) |
 | January 21, 2025  | [<img src="assets/ModernEngineeringPractices.png" alt="Modern Engineering Practices Badge" width="140">](https://www.credly.com/badges/26c136dd-8e25-4ee8-83d0-27f70baed4f2/public_url) |
 
 

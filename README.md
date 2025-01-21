@@ -1,24 +1,24 @@
 ### Hi 👋 I'm iilyak
 
 - 🔭 I’m currently working on CouchDB a no-SQL distributed database
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning
   - <img width="20mm" height="20mm" src="https://simpleicons.org/icons/rust.svg"> - Rust
   - <img width="20mm" height="20mm" src="https://simpleicons.org/icons/scala.svg"> - Scala
   - Technical leadership
-  - Organisation leadership
+  - Organization leadership
   - Teams Culture
 
 # Scientific interests
 
 - [IBM's Neuro-Symbolic AI](https://research.ibm.com/topics/neuro-symbolic-ai)
-- Probalistic data structures
+- Probabilistic data structures
 - Applications of SMT solvers
 - Pedagogy
 - Zero-trust distributed systems
 - Planned economy
 - Knowledge management
   - [Zettelkasten method](https://zettelkasten.de/posts/overview/)
-  
+
 
 # 🛠️ Tools I use
 
